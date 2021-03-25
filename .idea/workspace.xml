@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cab620c0-8b10-4064-95bb-cca7197c970e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="StandardCalculator" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pZmlDRNX3xil8H6zo8OvaYSUSz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StandardCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StandardCalculator" />
+      <module name="StandardCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StandardCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cab620c0-8b10-4064-95bb-cca7197c970e" name="Default Changelist" comment="" />
+      <created>1615399137009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615399137009</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="0" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1616537006748">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="446" y="0" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1366.768@0.0.1366.768" timestamp="1616537006748" />
+    <state x="400" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1616462768628">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="400" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1616462768628" />
+    <state x="287" y="73" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1615477553485">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="287" y="73" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1615477553485" />
+    <state x="287" y="73" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1615401742298">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="287" y="73" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1615401742298" />
+    <state x="514" y="226" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff" timestamp="1615566071789">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="514" y="226" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff/0.0.1366.768@0.0.1366.768" timestamp="1615566071789" />
+    <state x="363" y="22" key="FileChooserDialogImpl" timestamp="1615401153583">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="22" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1615401153583" />
+    <state width="1299" height="116" key="GridCell.Tab.0.bottom" timestamp="1616670848485">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1299" height="116" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1616670848485" />
+    <state width="1299" height="116" key="GridCell.Tab.0.center" timestamp="1616670848485">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1299" height="116" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1616670848485" />
+    <state width="1299" height="116" key="GridCell.Tab.0.left" timestamp="1616670848485">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1299" height="116" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1616670848485" />
+    <state width="1299" height="116" key="GridCell.Tab.0.right" timestamp="1616670848485">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1299" height="116" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1616670848485" />
+    <state x="223" y="31" key="GuiDesigner.FormSource.Dialog" timestamp="1615832253128">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="223" y="31" key="GuiDesigner.FormSource.Dialog/0.0.1366.768@0.0.1366.768" timestamp="1615832253128" />
+    <state x="63" y="4" key="IDE.errors.dialog" timestamp="1615575779918">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="63" y="4" key="IDE.errors.dialog/0.0.1366.768@0.0.1366.768" timestamp="1615575779918" />
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1616610245863">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1616610245863" />
+    <state x="229" y="122" key="com.intellij.ide.util.TipDialog" timestamp="1615452153740">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="229" y="122" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1615452153740" />
+    <state x="359" y="214" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1616512022711">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="359" y="214" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1366.768@0.0.1366.768" timestamp="1616512022711" />
+    <state width="1362" height="346" key="javadoc.popup" timestamp="1616610442494">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1362" height="346" key="javadoc.popup/0.0.1366.768@0.0.1366.768" timestamp="1616610442494" />
+    <state x="0" y="0" key="new project wizard" timestamp="1615478493093">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1615478493093" />
+    <state x="170" y="166" key="run.anything.popup" timestamp="1616610193837">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="170" y="166" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1616610193837" />
+    <state x="176" y="0" width="1009" height="764" key="search.everywhere.popup" timestamp="1616538931099">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="176" y="0" width="1009" height="764" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1616538931099" />
+  </component>
+</project>
